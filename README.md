@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Software Engineer in Webkul Software Pvt, Ltd.
 - 🌱 I’m currently learning MERN Full Stack Development.
 - 👯 I’m looking to collaborate on Node Js Projects
-- 🤔 I’m looking for help with Node Js,Mongo DB, Next Js and Projects
+- 🤔 I’m looking for help with Node Js,Mongo DB, Next Js Projects
 - 💬 Ask me about PHP, Laravel, VueJs, ReactJs, JavaScript. 
 - 📫 How to reach me: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://in.linkedin.com/in/mohd-faheem-9005a615a"><img alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
