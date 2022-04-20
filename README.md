@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mohd Faheem
 
-- 🔭 I’m currently working as a Software Engineer in Webkul Software Pvt, Ltd.
+- 🔭 I’m currently working as a Sr. Software Engineer in Magic EdTech.
 - 🌱 I’m currently learning MERN Full Stack Development.
 - 👯 I’m looking to collaborate on Node Js Projects
 - 🤔 I’m looking for help with Node Js,Mongo DB, Next Js Projects
