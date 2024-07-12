@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Node Js,Mongo DB, Next Js Projects
 - 💬 Ask me about PHP, Laravel, VueJs, ReactJs, JavaScript. 
 - 📫 How to reach me: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://in.linkedin.com/in/mohd-faheem-9005a615a"><img alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="[https://in.linkedin.com/in/mohd-faheem-9005a615a](https://www.linkedin.com/in/mohdfaheem712/)"><img alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=Mohdfaheem712)
 - ⚡ Like: Travelling, Trekking, Riding, Road Trips, Closed to Nature
 - :heart: Mail me your queries: mohd.faheem712@gmail.com
