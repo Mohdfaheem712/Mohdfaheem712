@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mohd Faheem
 
-- 🔭 I’m currently working as a Sr. Software Engineer in Magic EdTech.
-- 💬 Ask me about Java, Spring Boot. 
+- 🔭 I’m currently working as a Principal Software Engineer in Magic EdTech.
+- 💬 Ask me about Java, Spring Boot, MicroServices, RESt APIs 
 - 📫 How to reach me: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mohdfaheem712/"><img alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=Mohdfaheem712)
